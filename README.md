@@ -2,7 +2,7 @@
 
 Synthy is a small 8-step synth with no microcontroller and no code. It plays a looping melody of 8 notes, and you set each note by turning its own knob. Everything runs off USB-C.
 
-3D render
+![synthy](/synthy.png)
 
 How it works
 
@@ -12,7 +12,8 @@ Each step has its own knob, LED and switch. When a step is active, its knob sets
 
 The sound then goes through a tone knob that goes from soft to buzzy, a volume knob, and a small LM386 amplifier that drives a speaker.
 
-Schematic
+![synthy](/Screenshot2026-10-24222012.png)
+
 
 How to play it
 
