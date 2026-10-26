@@ -1,2 +1,22 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Item,Qty,Supplier,Cost/item,Total Cost,link,Purpose
+LMC555CN timer (DIP-8),2,LCSC,$1.69,$3.38,https://www.lcsc.com/product-detail/C1520185.html,The two timers: one is the clock that sets the tempo and the other makes the tone
+CD74HC4017E counter (DIP-16),1,LCSC,$0.86,$0.86,https://www.lcsc.com/product-detail/C354048.html,Steps through the 8 knobs one after another
+LM386N-1 amplifier (DIP-8),1,LCSC,$0.90,$0.90,https://www.lcsc.com/product-detail/C9723.html,Drives the speaker
+Slide switch SPDT (C&K OS102011MS2QN1),2,LCSC,$0.66,$1.32,https://www.lcsc.com/product-detail/C221829.html,RUN/STOP switch and 4/8 step switch
+USB-C power socket (GCT USB4125-GF-A),1,LCSC,$0.60,$0.60,https://www.lcsc.com/product-detail/C3151650.html,5V power input
+JST PH 2-pin header (min order 20),20,LCSC,$0.036,$0.72,https://www.lcsc.com/product-detail/C131337.html,Plug for the speaker wires
+PCB 2-layer 100x100mm (5 boards),1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/quote,The circuit board (JLCPCB minimum is 5)
+Resistor kit 1/4W metal film (30 values),1,AliExpress,$2.00,$2.00,https://www.aliexpress.com/w/wholesale-metal-film-resistor-kit-1%2F4w.html,All 35 resistors: 10 ohm and 1k and 2.2k and 4.7k and 5.1k and 10k and 47k and 100k
+Ceramic capacitor kit (2pF to 100nF),1,AliExpress,$2.00,$2.00,https://www.aliexpress.com/w/wholesale-ceramic-capacitor-kit.html,The 4.7nF and 10nF and 47nF and 100nF capacitors (10 needed)
+1uF ceramic capacitor 5mm pitch (10 pcs),1,AliExpress,$0.50,$0.50,https://www.aliexpress.com/w/wholesale-1uf-ceramic-capacitor-105.html,Passes the sound to the volume knob
+47nF film capacitor CBB/MKT 473 (10 pcs),1,AliExpress,$0.80,$0.80,https://www.aliexpress.com/w/wholesale-473-film-capacitor.html,Tone timing capacitor (film so the pitch does not drift when warm)
+10uF 25V electrolytic 5mm (10 pcs),1,AliExpress,$0.50,$0.50,https://www.aliexpress.com/w/wholesale-10uf-25v-electrolytic-capacitor.html,Clock timing and amplifier bypass
+100uF 16V electrolytic 6.3mm (10 pcs),1,AliExpress,$0.60,$0.60,https://www.aliexpress.com/w/wholesale-100uf-16v-electrolytic-capacitor.html,Smooths the power at the USB-C and the amplifier
+220uF 16V electrolytic 8mm (10 pcs),1,AliExpress,$0.70,$0.70,https://www.aliexpress.com/w/wholesale-220uf-16v-electrolytic-capacitor.html,Speaker output capacitor
+3mm red LEDs (50 pcs),1,AliExpress,$0.80,$0.80,https://www.aliexpress.com/w/wholesale-3mm-red-led.html,8 step lights and the power light
+1N4148 diodes (100 pcs),1,AliExpress,$0.80,$0.80,https://www.aliexpress.com/w/wholesale-1n4148-diode.html,One per step so only the playing knob sets the pitch
+DIP-8 IC sockets (10 pcs),1,AliExpress,$0.60,$0.60,https://www.aliexpress.com/w/wholesale-dip8-ic-socket.html,Sockets for the two timers and the amplifier so each part can be tested on its own
+DIP-16 IC sockets (10 pcs),1,AliExpress,$0.70,$0.70,https://www.aliexpress.com/w/wholesale-dip16-ic-socket.html,Socket for the counter
+8-way DIP switch 2.54mm (5 pcs),1,AliExpress,$1.00,$1.00,https://www.aliexpress.com/w/wholesale-8-way-dip-switch-2.54mm.html,Turns each step on or off to make rests
+8 ohm 0.5W speaker 40mm (2 pcs),1,AliExpress,$1.50,$1.50,https://www.aliexpress.com/w/wholesale-8-ohm-0.5w-speaker-40mm.html,Makes the sound
+RK097 9mm potentiometers (10x B100K 2x B50K 2x A100K),1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/w/wholesale-rk097-potentiometer.html,8 pitch knobs plus tempo and tone and volume (already bought with my own money for 14.65 GEL)
